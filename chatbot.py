@@ -1,7 +1,7 @@
 import anthropic
 
 # Initialize the Anthrop client
-client = anthropic.Anthropic(api_key='<YOUR-API-KEY>')
+client = anthropic.Anthropic(api_key='<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>')
 
 conversation = []
 
